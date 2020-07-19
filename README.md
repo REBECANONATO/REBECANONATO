@@ -7,11 +7,15 @@
 - Back-end: 
      C# 
      .Net Core
-     Framework
+     .Net Framework
+     NodeJS
 ```
 ```
-- Front-end: 
-   Angular
-   Vue JS
+- Front-end:
+     JavaScript
+     HTML
+     CSS
+     Angular
+     ReactJS
 ```
 
