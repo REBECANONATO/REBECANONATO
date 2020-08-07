@@ -1,0 +1,32 @@
+@font-face {
+  font-family: 'Westline Script Demo';
+  font-style: normal;
+  font-weight: bold;
+  src: url('./assets/fonts/westlineScript.otf');
+}
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+body {
+  font: 400 14px "Inconsolata", sans-serif;
+  background: #191b1a;
+  -webkit-font-smoothing: antialiased;
+}
+
+span,
+p,
+h1,
+a {
+  font: "Inconsolata", sans-serif;
+}
+
+button {
+  cursor: pointer;
+}
