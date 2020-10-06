@@ -7,6 +7,8 @@
 **Site Pessoal:** https://rebecanonato89.netlify.app/
 redes sociais com o rebecanonato89
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=REBECANONATO&show_icons=true&theme=radical)
+
 ##
  **Dev Fullstack**
 
@@ -25,3 +27,5 @@ redes sociais com o rebecanonato89
           - HTML
           - CSS
 ```
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=REBECANONATO&layout=compact)](https://github.com/REBECANONATO/github-readme-stats)
