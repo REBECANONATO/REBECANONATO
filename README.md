@@ -5,6 +5,7 @@
 [<img src="https://user-images.githubusercontent.com/38442994/87181742-3872b000-c2b9-11ea-9aca-c3851c4ac557.png" width="40" >](https://www.linkedin.com/in/rebecanonato89/)
 
 **Site Pessoal:** https://rebecanonato89.netlify.app/
+
 redes sociais com o rebecanonato89
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=REBECANONATO&show_icons=true&theme=radical)
