@@ -18,6 +18,16 @@ export const ProjectsTextDiv = styled.div`
   margin-top: 5em;
   flex-direction: column;
   width: 90%;
+  
+    strong {
+      color: #BA68C8;
+    }
+    h3{
+      color: #8E39E3;
+    }
+    p{
+      color: #f5f5f5
+    }
 
     .profile-container {
         width: 100%;
