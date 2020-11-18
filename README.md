@@ -2,8 +2,9 @@
 ## Descrição pessoal das qualificações e tecnologias utilizadas.
 
 
-[<img src="https://user-images.githubusercontent.com/38442994/87181740-37da1980-c2b9-11ea-9e88-c0cf7b4800ed.png" width="40" >](https://api.whatsapp.com/send?phone=5531994298913) 
-[<img src="https://user-images.githubusercontent.com/38442994/87181742-3872b000-c2b9-11ea-9aca-c3851c4ac557.png" width="40" >](https://www.linkedin.com/in/rebecanonato89/)
+[![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-6633cc?style=flat-square&logo=Whatsapp&logoColor=white&color=black&link=https://whats.link/eduardojose)](https://api.whatsapp.com/send?phone=5531994298913)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=https://www.linkedin.com/in/eduarddojose/)](https://www.linkedin.com/in/rebecanonato89/)
+[![RocketSeat Badge](https://img.shields.io/badge/-RocketSeat-6633cc?style=flat-square&logo=Polymer-Project&logoColor=white&color=black&link=https://app.rocketseat.com.br/me/eduardo-jose-1594223134)](https://app.rocketseat.com.br/me/rebecanonato89)
 
 **Site Pessoal:** https://rebecanonato89.netlify.app/
 
