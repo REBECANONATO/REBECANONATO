@@ -11,7 +11,7 @@
 </a>
 
 <a href="https://app.rocketseat.com.br/me/rebecanonato89">
-  <code><img alt="My Rocketseat" width="28" src="https://www.flaticon.com/br/premium-icon/icons/svg/2519/2519629.svg" /></code>
+  <code><img alt="My Rocketseat" width="28" src="https://www.flaticon.com/svg/static/icons/svg/166/166340.svg" /></code>
 </a>
 
 <a href="mailto:rebecanonato89@gmail.com">
@@ -21,9 +21,6 @@
 <a href="https://rebecanonato89.netlify.app/">
   <code><img alt="My site" width="32" src="https://www.flaticon.com/svg/static/icons/svg/1450/1450332.svg" /></code>
 </a>
-
-
-redes sociais com o rebecanonato89
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=REBECANONATO&show_icons=true&theme=radical)
 
