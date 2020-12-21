@@ -2,11 +2,26 @@
 ## Descrição pessoal das qualificações e tecnologias utilizadas.
 
 
-[![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-6633cc?style=flat-square&logo=Whatsapp&logoColor=white&color=black&link=https://whats.link/eduardojose)](https://api.whatsapp.com/send?phone=5531994298913)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=https://www.linkedin.com/in/eduarddojose/)](https://www.linkedin.com/in/rebecanonato89/)
-[![RocketSeat Badge](https://img.shields.io/badge/-RocketSeat-6633cc?style=flat-square&logo=Polymer-Project&logoColor=white&color=black&link=https://app.rocketseat.com.br/me/eduardo-jose-1594223134)](https://app.rocketseat.com.br/me/rebecanonato89)
+<a href="https://www.linkedin.com/in/rebecanonato89/">
+  <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383329.svg" /></code>
+</a>
 
-**Site Pessoal:** https://rebecanonato89.netlify.app/
+<a href="https://api.whatsapp.com/send?phone=5531994298913">
+  <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383336.svg" /></code>
+</a>
+
+<a href="https://app.rocketseat.com.br/me/rebecanonato89">
+  <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/2519629.svg" /></code>
+</a>
+
+<a href="mailto:rebecanonato89@gmail.com">
+  <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324100.svg" /></code>
+</a>
+
+<a href="https://rebecanonato89.netlify.app/">
+  <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/115/1150575.svg" /></code>
+</a>
+
 
 redes sociais com o rebecanonato89
 
