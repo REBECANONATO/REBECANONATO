@@ -22,7 +22,9 @@
   <code><img alt="My site" width="32" src="https://www.flaticon.com/svg/static/icons/svg/1450/1450332.svg" /></code>
 </a>
 
+<br><br><br>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=REBECANONATO&show_icons=true&theme=radical)
+<br><br><br>
 
 ##
  **Dev Fullstack**
