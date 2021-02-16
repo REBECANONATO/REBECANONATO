@@ -13,9 +13,14 @@ function Projects() {
             <ul id="itemContainer">
 
               <li>
+                <strong>Digital Innovation</strong>
+                <p>Bootcamp Online - Desenvolvedor Full Stack</p>
+                <h3>2021 - Em Andamento</h3>
+              </li>
+              <li>
                 <strong>RocketSeat</strong>
                 <p>Bootcamp Online - Desenvolvedor Full Stack</p>
-                <h3>Em Andamento</h3>
+                <h3>2021 - Em Andamento</h3>
               </li>
               <li>
                 <strong>IGTI</strong>
