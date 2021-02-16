@@ -18,7 +18,7 @@
   <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324100.svg" /></code>
 </a>
 
-<a href="https://rebecanonato89.netlify.app/">
+<a href="https://rebecanonato89.dev/">
   <code><img alt="My site" width="32" src="https://www.flaticon.com/svg/static/icons/svg/1450/1450332.svg" /></code>
 </a>
 
