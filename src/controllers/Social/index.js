@@ -6,7 +6,7 @@ import { Container } from './styles';
 function Social() {
   return (
     <Container>
-      <a id="github" title="GitHub" href="https://github.com/REBECANONATO">
+      <a id="github" title="GitHub" href="https://github.com/rebecanonato89">
         <FaGithub />
       </a>
       <a id="stack" title="stackoverflow" href="https://pt.stackoverflow.com/users/81283/rebeca-nonato">
