@@ -23,7 +23,7 @@
 </a>
 
 <br><br><br>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=REBECANONATO&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rebecanonato89&show_icons=true&theme=radical)
 <br><br><br>
 
 ##
@@ -45,4 +45,4 @@
           - CSS
 ```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=REBECANONATO&layout=compact)](https://github.com/REBECANONATO/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rebecanonato89&layout=compact)](https://github.com/rebecanonato89/github-readme-stats)
