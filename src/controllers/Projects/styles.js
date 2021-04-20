@@ -26,7 +26,24 @@ export const ProjectsTextDiv = styled.div`
       color: #8E39E3;
     }
     p{
-      color: #f5f5f5
+      color: #f5f5f5;
+      text-align: center;
+      padding-top: 15px;
+      font-size: 18px;
+    }
+
+    .boxText {
+      left: 50%;
+      margin-left: -340px; /* A metade de sua largura. */
+      position: absolute;
+      width: 40%;
+      height: 30%;
+      //background: #6C7A89;
+      // display: flex;
+      // flex-direction: row;
+      // justify-content: center;
+      // align-items: center
+
     }
 
     .profile-container {
