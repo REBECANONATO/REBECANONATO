@@ -68,7 +68,7 @@ function Skills() {
             </Icon>
             <GrettingButtonDiv>
                 <form>
-                    <a target="_blank" rel="noopener noreferrer" title="GitHub" href="https://github.com/REBECANONATO" class="button">
+                          <a target="_blank" rel="noopener noreferrer" title="GitHub" href="https://github.com/rebecanonato89" class="button">
                         Veja os projetos no meu GitHub
                     </a>
                 </form>
