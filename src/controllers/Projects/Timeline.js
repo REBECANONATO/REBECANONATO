@@ -32,7 +32,7 @@ const EXAMPLE = [
     },
     {
         data: "2019-01-02",
-        statusB: "Projeto DreamLife - Projeto de uma página de viagens, cadastros de hotéis, cidades. Crud completo em C#, Angular e Posgres.",
+        statusB: "Projeto DreamLife - Projeto de uma página de viagens, cadastros de hotéis, cidades. Crud completo em C#, Angular e Postgres.",
     },
     {
         data: "2020-01-02",
