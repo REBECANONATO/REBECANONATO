@@ -33,16 +33,16 @@ export const ProjectsTextDiv = styled.div`
     }
 
     .boxText {
-      left: 50%;
-      margin-left: -340px; /* A metade de sua largura. */
+      //left: 40%;
+      margin-left: 50px; /* A metade de sua largura. */
       position: absolute;
-      width: 40%;
+      width: 1020px;
       height: 30%;
       //background: #6C7A89;
-      // display: flex;
-      // flex-direction: row;
-      // justify-content: center;
-      // align-items: center
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      align-items: center
 
     }
 

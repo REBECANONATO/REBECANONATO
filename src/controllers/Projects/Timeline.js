@@ -57,7 +57,7 @@ export default class Timeline extends React.Component {
             <div>
                 <div
                     style={{
-                        width: "60%",
+                        width: "100%",
                         height: "100px",
                         margin: "0 auto",
                         marginTop: "20px",
@@ -67,8 +67,8 @@ export default class Timeline extends React.Component {
                 >
                     <HorizontalTimeline
                         styles={{
-                            background: "#f8f8f8",
-                            foreground: "#1A79AD",
+                            background: "#8E39E3",
+                            foreground: "#BA68C8",
                             outline: "#dfdfdf",
                         }}
                         index={this.state.curIdx}
